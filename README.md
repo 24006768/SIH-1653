@@ -78,6 +78,8 @@ Database: Stores profiles, responses, and evaluations.
 Dashboard: Generates performance insights and reports.
 
 ARCHITECTURE DIAGRAM:
+
+
 ![image](https://github.com/user-attachments/assets/50432b55-b757-4b86-a7aa-270e2226c5d0)
 
 
